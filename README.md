@@ -7,7 +7,7 @@ In this project, I analyse sales performance, customer behaviour, product catego
 
 I developed an interactive, three-page Power BI dashboard to help users understand business performance through KPIs, charts and filters.
 
-## Slide 2 – Problem Statement
+Problem Statement
 
 E-commerce businesses generate large amounts of data from customer orders, products, payments, sellers and reviews.
 
@@ -24,7 +24,7 @@ Businesses may face challenges such as:
 
 To address these analytical challenges, I developed an interactive dashboard that combines different datasets and presents important information in a visual format.
 
-## Slide 3 – Project Objectives
+Project Objectives
 
 The main objectives of my project are:
 
@@ -40,7 +40,7 @@ The main objectives of my project are:
 
 These objectives help transform raw transactional data into useful information for business analysis.
 
-## Slide 4 – Dataset Description
+Dataset Description
 
 For this project, I used the **Brazilian E-Commerce Public Dataset by Olist**, available on Kaggle.
 
@@ -164,7 +164,7 @@ I used it to display product categories in English in the dashboard.
 
 The dataset contains approximately 100,000 orders and multiple related tables. Each table provides a different part of the e-commerce business information.
 
-## Slide 5 – Tools and Technologies
+Tools and Technologies
 
 I worked with the following technologies as part of the analytics workflow:
 
@@ -182,7 +182,7 @@ I worked with the following technologies as part of the analytics workflow:
 
 The main dashboard presented in this project was developed using Power BI.
 
-## Slide 6 – Data Cleaning and Transformation
+Data Cleaning and Transformation
 
 Before creating the dashboard, I prepared the raw datasets using Power Query.
 
@@ -198,7 +198,7 @@ The main data preparation activities included:
 
 These steps helped improve data quality and prepare the tables for analysis.
 
-## Slide 7 – Data Modelling
+Data Modelling
 
 After cleaning the datasets, I created relationships between the tables in Power BI Model View.
 
@@ -222,7 +222,7 @@ I kept the Geolocation table separate because a ZIP code prefix can have multipl
 
 Data modelling allows information from different tables to be analysed together in Power BI.
 
-## Slide 8 – DAX Measures and KPI Calculations
+DAX Measures and KPI Calculations
 
 After creating the data model, I developed DAX measures to calculate important business metrics.
 
@@ -278,7 +278,7 @@ It helps understand the volume of customer feedback.
 
 These DAX measures are used in KPI cards and charts throughout the dashboard.
 
-## Slide 9 – Dashboard Page 1: Sales Overview
+Dashboard Page 1: Sales Overview
 
 Now I will explain the first page of my Power BI dashboard, called **Sales Overview**.
 
@@ -520,7 +520,7 @@ The dashboard helps businesses explore several important areas.
 
 These are analytical insights that can support business decisions. The actual findings should be explained using the values and patterns shown in the dashboard.
 
-## Slide 13 – Conclusion
+Conclusion
 
 To conclude, I successfully developed an interactive E-Commerce Sales and Customer Insights Dashboard using Power BI.
 
