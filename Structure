@@ -1,0 +1,20 @@
+E-Commerce-Sales-Customer-Insights/
+│
+├── README.md
+│
+├── Dataset/
+│   └── Olist Dataset/
+│
+├── PowerBI/
+│   └── Ecommerce_Dashboard.pbix
+│
+├── Dashboard_Screenshots/
+│   ├── Sales_Overview.png
+│   ├── Order_Product_Analysis.png
+│   └── Customer_Insights.png
+│
+├── Documentation/
+│   └── Project_Presentation.pdf
+│
+└── DAX_Measures/
+    └── Measures.txt
